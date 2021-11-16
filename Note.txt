@@ -1,0 +1,7 @@
+"Reactstrap" is a component library for React. It provides inbuilt Bootstrap components that make it easy to create UI with self-contained components that provide flexibility and inbuilt validations. "Reactstrap" is easy to use and supports Bootstrap 4.
+
+use this:- npm install bootstrap@4.6.0 reactstrap@8.9.0 --legacy-peer-deps
+
+for notes :- https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using-django-and-react
+
+
